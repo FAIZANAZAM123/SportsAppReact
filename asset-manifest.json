@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SportsAppReact/static/css/main.db414332.css",
-    "main.js": "/SportsAppReact/static/js/main.45120a60.js",
+    "main.js": "/SportsAppReact/static/js/main.5e79d34a.js",
     "static/js/787.a5c25428.chunk.js": "/SportsAppReact/static/js/787.a5c25428.chunk.js",
     "static/media/main-app-bg.jpg": "/SportsAppReact/static/media/main-app-bg.d458839a4f54fc8269a3.jpg",
     "static/media/game.png": "/SportsAppReact/static/media/game.ff69e95cd1201fdd0c01.png",
@@ -29,11 +29,11 @@
     "static/media/egame.svg": "/SportsAppReact/static/media/egame.0457061843c36f132fbbe20631a93280.svg",
     "index.html": "/SportsAppReact/index.html",
     "main.db414332.css.map": "/SportsAppReact/static/css/main.db414332.css.map",
-    "main.45120a60.js.map": "/SportsAppReact/static/js/main.45120a60.js.map",
+    "main.5e79d34a.js.map": "/SportsAppReact/static/js/main.5e79d34a.js.map",
     "787.a5c25428.chunk.js.map": "/SportsAppReact/static/js/787.a5c25428.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.db414332.css",
-    "static/js/main.45120a60.js"
+    "static/js/main.5e79d34a.js"
   ]
 }
